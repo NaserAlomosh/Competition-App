@@ -1,0 +1,5 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "imges/logo.png"
+  background_color: "#F79824"
